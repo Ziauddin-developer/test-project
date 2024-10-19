@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:upstreet/Controllers/Constants/Blackbold%20text.dart';
+import 'package:upstreet/Controllers/Components-/Blackbold%20text.dart';
 import 'package:upstreet/Controllers/Constants/Images.dart';
-import 'package:upstreet/Controllers/Constants/light%20text.dart';
+import 'package:upstreet/Controllers/Components-/light%20text.dart';
 class Confirmation_screen extends StatefulWidget {
   const Confirmation_screen({super.key});
 
