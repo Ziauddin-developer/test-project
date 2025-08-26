@@ -19,8 +19,8 @@ class MyApp extends StatelessWidget {
       home:
        // Button()
       //On_boarding_screen()
-      Splash_screen(),
-     // NavBarClass()
+      //Splash_screen(),
+      NavBarClass()
     );
   }
 }
