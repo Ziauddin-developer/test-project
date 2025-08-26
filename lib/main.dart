@@ -18,9 +18,9 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       home:
        // Button()
-      //On_boarding_screen()
+      On_boarding_screen()
       //Splash_screen(),
-      NavBarClass()
+      //NavBarClass()
     );
   }
 }
