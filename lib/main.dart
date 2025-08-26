@@ -17,11 +17,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       home:
-       // Button()
-      On_boarding_screen()
-      //Splash_screen(),
-      //NavBarClass()
+          // Button()
+          // On_boarding_screen()
+          //Splash_screen(),
+          NavBarClass(),
     );
   }
 }
-
